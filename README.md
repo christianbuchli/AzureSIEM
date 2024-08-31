@@ -98,7 +98,7 @@ In the map settings, change the Metric Label to country and change any of the ot
 
 The final product:
 
-![SentinelWorkbook4](https://github.com/user-attachments/assets/a803efb0-5fc7-4880-ba8f-0228aa228d11)
+![SentinelWorkbook4](https://github.com/user-attachments/assets/48cc26df-4fbf-4ff3-b2f8-68aa76c7e2b0)
 
 That’s all for this project, thanks for reading!
 
